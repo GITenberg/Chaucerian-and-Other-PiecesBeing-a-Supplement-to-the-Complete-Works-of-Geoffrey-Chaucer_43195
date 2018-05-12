@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4590
     wikipedia: http://en.wikipedia.org/wiki/Walter_William_Skeat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43195#Chaucerian-and-Other-PiecesBeing-a-Supplement-to-the-Complete-Works-of-Geoffrey-Chaucer
 gutenberg_issued: '2013-07-11'
 gutenberg_type: Text
 identifiers:
