@@ -1,0 +1,30 @@
+_repo: Chaucerian-and-Other-PiecesBeing-a-Supplement-to-the-Complete-Works-of-Geoffrey-Chaucer_43195
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Skeat, Walter W. (Walter William)
+    alias: Skeat, Walter William
+    birthdate: 1835
+    deathdate: 1912
+    gutenberg_agent_id: '4590'
+    url: http://www.gutenberg.org/2009/agents/4590
+    wikipedia: http://en.wikipedia.org/wiki/Walter_William_Skeat
+description: ''
+gutenberg_issued: '2013-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Chaucer, Geoffrey, -1400'
+title: 'Chaucerian and Other Pieces
+
+  Being a Supplement to the Complete Works of Geoffrey Chaucer'
+url: http://www.gutenberg.org/ebooks/43195
